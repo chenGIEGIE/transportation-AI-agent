@@ -22,7 +22,8 @@
 4. **自我成长的AI智能体**:  通过与用户不断交互，学习和完善知识库，提供更精准的服务。
 
 ##  技术栈
-
+- streamlit
 - InternLM
+- Chroma
 - Python
 
