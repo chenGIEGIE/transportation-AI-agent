@@ -3,7 +3,7 @@
 
 ## 项目简介
 
-欢迎来到 Transportation-AI-Agent，这是一个基于 InternLM 构建的交通领域 AI 智能体项目！ 🎉  本项目诞生于书生大模型实战营 (https://github.com/internLM/tutorial) ，旨在为广大土木工程从业者提供一个便捷、高效的知识问答和信息获取平台。 Transportation-AI-Agent  是一个能够通过交互慢慢学习的“自我成长智能体”，具备专业知识问答、每日最新资讯摘要、“标题党退散” 三大功能，帮助您在工作和学习中快速解决问题、提升效率。
+欢迎来到 Transportation-AI-Agent，这是一个基于 InternLM 构建的交通领域 AI 智能体项目！ 🎉  本项目诞生于书生大模型实战营 (https://github.com/internLM/tutorial) ，旨在为广大土木老哥提供一个便捷、高效的知识问答和信息获取平台。 Transportation-AI-Agent  是一个能够通过交互慢慢学习的“自我成长智能体”，具备专业知识问答、每日最新资讯摘要、“标题党退散” 三大功能，帮助您在工作和学习中快速解决问题、提升效率。
 
 ## 交通智能体大模型
 
