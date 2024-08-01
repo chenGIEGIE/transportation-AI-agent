@@ -27,3 +27,4 @@
 - Chroma
 - Python
 
+![产品架构图](F:\360MoveData\Users\陈JZ\Desktop\地质灾害预测\fc0613e36a01d2c7fd608d6907b248f.png)
