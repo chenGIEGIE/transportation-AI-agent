@@ -27,4 +27,4 @@
 - Chroma
 - Python
 
-![产品架构图](transportation-AI-agent/fc0613e36a01d2c7fd608d6907b248f.png)
+![产品架构图](fc0613e36a01d2c7fd608d6907b248f.png)
